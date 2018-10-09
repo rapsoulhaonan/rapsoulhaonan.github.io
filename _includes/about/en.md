@@ -54,6 +54,9 @@ I am the author of two books on the market which focus on Microsoft SharePoint d
 
  Co-author | Contributor
 ------------ | -------------
+------------ | -------------
+[![Pro SharePoint 2013 - Branding and Responsive Web Development ](https://images-na.ssl-images-amazon.com/images/I/5106pYx-i2L._SX404_BO1,204,203,200_.jpg)](https://www.amazon.com/SharePoint-Branding-Responsive-Development-Experts/dp/1430250283/ref=sr_1_1?ie=UTF8&qid=1489543918&sr=8-1&keywords=web+development+responsive+design+sharepoint) | [![Social Computing with Microsoft SharePoint 2007: Implementing Applications for SharePoint to Enable Collaboration and Interaction in the Enterprise (Wrox Programmer to Programmer)](https://images-na.ssl-images-amazon.com/images/I/51QbHmkVzQL._SX394_BO1,204,203,200_.jpg)](https://www.amazon.com/Social-Computing-Microsoft-SharePoint-2007/dp/B003D3OH5U/ref=sr_1_10?ie=UTF8&qid=1489544832&sr=8-10&keywords=sharepoint+social)
+
 [![Pro SharePoint 2013 - Branding and Responsive Web Development ](https://images-na.ssl-images-amazon.com/images/I/5106pYx-i2L._SX404_BO1,204,203,200_.jpg)](https://www.amazon.com/SharePoint-Branding-Responsive-Development-Experts/dp/1430250283/ref=sr_1_1?ie=UTF8&qid=1489543918&sr=8-1&keywords=web+development+responsive+design+sharepoint) | [![Social Computing with Microsoft SharePoint 2007: Implementing Applications for SharePoint to Enable Collaboration and Interaction in the Enterprise (Wrox Programmer to Programmer)](https://images-na.ssl-images-amazon.com/images/I/51QbHmkVzQL._SX394_BO1,204,203,200_.jpg)](https://www.amazon.com/Social-Computing-Microsoft-SharePoint-2007/dp/B003D3OH5U/ref=sr_1_10?ie=UTF8&qid=1489544832&sr=8-10&keywords=sharepoint+social)
 
 
