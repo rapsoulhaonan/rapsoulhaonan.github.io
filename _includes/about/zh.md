@@ -7,4 +7,5 @@ Hey，我是杨浩男，半经常活跃于[知乎]（可惜没有账号，长期
 👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/rapsoulhaonan)、[Linkedin](https://www.linkedin.com/in/haonan-yang-1a908056/)。 
 
 > People who love to eat are always the best people. -Julia Child
+
 > There is no sincerer love than the love of food. -George Bernard Shaw
