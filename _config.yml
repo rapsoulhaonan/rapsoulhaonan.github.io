@@ -5,6 +5,10 @@ header-img: img/home-bg.jpg
 email: hyang940412@gmail.com
 description: ""
 keyword: ""
+navbar-links:
+  Home: feed
+  About: 
+    - About me else
 url: "https://rapsoulhaonan.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
