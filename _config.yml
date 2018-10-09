@@ -8,6 +8,7 @@ keyword: ""
 navbar-links:
   Home: feed
   About: 
+    - About me 
     - About me else
   Archive : feeds
   Portfolio: Me myself & I
