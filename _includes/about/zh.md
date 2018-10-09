@@ -1,9 +1,3 @@
----
-layout: page
-title: Helo, I'm Oscar
-subtitle: A seasoned modern technical architect | developer | nice guy
----
-
 > 欢迎来到我的一片栖息地！
 
 Hey，我是杨浩男，半经常活跃于[知乎]（可惜没有账号，长期潜水)、[Github](http://github.com/rapsoulhaonan)、[Medium](https://medium.com/@rapsoulhaonan) 等动感地带。我平常喜欢健身和户外运动，希望大家工作之余多多关心自己的身体！
