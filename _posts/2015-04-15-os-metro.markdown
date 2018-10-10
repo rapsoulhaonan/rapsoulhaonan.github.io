@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Deploy Cloudera EDH Cluster"
-author: "Haonan Yang"
 subtitle: "Like a Boss Revamped – Part 1"
 header-img: "img/post-bg-web.jpg"
 header-mask: 0.4
