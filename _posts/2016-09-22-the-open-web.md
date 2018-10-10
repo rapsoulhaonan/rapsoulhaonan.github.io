@@ -3,7 +3,7 @@ layout: post
 title: "Pseudo Random Number Generators"
 author: "Haonan Yang"
 subtitle: "A briefie to randomization"
-header-img: "img/post-bg-web.jpg"
+header-img: "img/post-bg-prng.jpg"
 header-mask: 0.4
 tags: 
     - Cryptography
