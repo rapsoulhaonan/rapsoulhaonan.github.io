@@ -1,11 +1,6 @@
 ---
 title: "How to: Bind to XML Data Using an XMLDataProvider and XPath Queries"
-ms.date: "03/30/2017"
-helpviewer_keywords: 
-  - "XmlDataProvider [WPF], binding to XML data"
-  - "data binding [WPF], binding to XML data using XmlDataProvider queries"
-  - "binding [WPF], to XML data using XmlDataProvider queries"
-ms.assetid: 7dcd018f-16aa-4870-8e47-c1b4ea31e574
+header-img: "img/post-bg-data-bind.jpg"
 tags:
   - C#
   - XML
