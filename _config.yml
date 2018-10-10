@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: rapsoulhaonan
 
 # Netease settings
 netease_comment: false
@@ -75,6 +75,7 @@ ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 ga_domain: huangxuan.me
 
 
+
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>"
@@ -87,13 +88,17 @@ featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
+
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
+
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
+
+
 
 # Friends
 friends: [
