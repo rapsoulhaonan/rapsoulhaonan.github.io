@@ -1,6 +1,7 @@
 ---
 title: "Using Slack to display the status of CodeDeploy"
 subtitle: "Auto is better than not"
+header-img: "img/post-bg-slack.jpg"
 tags: [DevOps, AWS]
 ---
 Slack是目前很多人工作中必不可少的通讯工具；CodeDeploy是AWS上方便部署代码的有力助手。每次部署代码时，你是否苦恼在运维组的频道中重复同样的话？现在结合这两个工具，当CodeDeploy状态发生变化时，让Slack自动发送消息。
