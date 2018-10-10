@@ -153,7 +153,4 @@ XML
 
 
 
-{% video https://github.com/rapsoulhaonan/rapsoulhaonan.github.io/blob/master/video/Harry-Potter.mp4 240 480 https://github.com/rapsoulhaonan/rapsoulhaonan.github.io/blob/master/img/404-bg.jpg %}
-
-<iframe width="240" height="480" src="https://github.com/rapsoulhaonan/rapsoulhaonan.github.io/blob/master/video/Harry-Potter.mp4" frameborder="0"></iframe>
-
+{% video https://www.youtube.com/watch?v=9rG9Xt84Hx4 240 480 https://github.com/rapsoulhaonan/rapsoulhaonan.github.io/blob/master/img/404-bg.jpg %}
