@@ -153,4 +153,4 @@ XML
 
 
 
-{% video http://rapsoul.info/video/Harry-Potter.mp4 240 480 http://rapsoul.info/img/404-bg.jpg %}
+{% video https://github.com/rapsoulhaonan/rapsoulhaonan.github.io/video/Harry-Potter.mp4 240 480 https://github.com/rapsoulhaonan/rapsoulhaonan.github.io/img/404-bg.jpg %}
