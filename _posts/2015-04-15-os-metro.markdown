@@ -3,8 +3,6 @@ layout: post
 title: "Deploy Cloudera EDH Cluster"
 subtitle: "Like a Boss Revamped – Part 1"
 header-img: "img/post-bg-cloudera.jpg"
-header-img: "img/post-bg-web.jpg"
-header-mask: 0.4
 tags: 
     - CDH
     - Hadoop
