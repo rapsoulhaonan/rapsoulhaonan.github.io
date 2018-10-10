@@ -1,6 +1,7 @@
 ---
 title: "Git 初学者(一)"
 subtitle: "Git 基础与基本用法"
+header-img: "img/post-bg-git.jpg"
 tags: [Git]
 ---
 这篇文章要说的是我在工作中需要的git的用法。 如果你稍微理解git的工作原理，这篇文章能够让你理解的更透彻。  
