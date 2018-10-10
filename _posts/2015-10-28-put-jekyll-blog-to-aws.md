@@ -1,6 +1,7 @@
 ---
 title: "在 AWS 上搭建 Jekyll 博客"
 subtitle: "利用 Github Post Receive Hook 同步"
+header-img: "img/post-bg-jekyll.jpg"
 tags: [Jekyll, AWS]
 ---
 Jekyll是一个为生成静态博客非常快速且优雅的工具, [官方网站](http://jekyllrb.com/ "jekyll")资料详实, 有需要可以去学习一下, 本文会涉及它的基本应用, 但不会深入讨论日常用法. AWS是一个Amazon推出的强大的云服务, 可以被用作VPS. 本文主要讨论如何通过 Github Post Receive 实现本地与 AWS EC2 实例自动同步. 你需要确保已安装git和jekyll在你的机器上. 
