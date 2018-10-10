@@ -1,6 +1,7 @@
 ---
 title: Sinatra 实现原理(四)
 subtitle: Dispatching
+header-img: "img/post-bg-sinatra.jpg"
 tags: [Ruby, Sinatra]
 ---
 翻译来自 *Sinatra: Up and Running*  
