@@ -57,16 +57,3 @@ I am the author of two books on the market which focus on Microsoft SharePoint d
 [![Pro SharePoint 2013 - Branding and Responsive Web Development ](https://images-na.ssl-images-amazon.com/images/I/5106pYx-i2L._SX404_BO1,204,203,200_.jpg)](https://www.amazon.com/SharePoint-Branding-Responsive-Development-Experts/dp/1430250283/ref=sr_1_1?ie=UTF8&qid=1489543918&sr=8-1&keywords=web+development+responsive+design+sharepoint) | [![Social Computing with Microsoft SharePoint 2007: Implementing Applications for SharePoint to Enable Collaboration and Interaction in the Enterprise (Wrox Programmer to Programmer)](https://images-na.ssl-images-amazon.com/images/I/51QbHmkVzQL._SX394_BO1,204,203,200_.jpg)](https://www.amazon.com/Social-Computing-Microsoft-SharePoint-2007/dp/B003D3OH5U/ref=sr_1_10?ie=UTF8&qid=1489544832&sr=8-10&keywords=sharepoint+social)
 [![Pro SharePoint 2013 - Branding and Responsive Web Development ](https://images-na.ssl-images-amazon.com/images/I/5106pYx-i2L._SX404_BO1,204,203,200_.jpg)](https://www.amazon.com/SharePoint-Branding-Responsive-Development-Experts/dp/1430250283/ref=sr_1_1?ie=UTF8&qid=1489543918&sr=8-1&keywords=web+development+responsive+design+sharepoint) | [![Social Computing with Microsoft SharePoint 2007: Implementing Applications for SharePoint to Enable Collaboration and Interaction in the Enterprise (Wrox Programmer to Programmer)](https://images-na.ssl-images-amazon.com/images/I/51QbHmkVzQL._SX394_BO1,204,203,200_.jpg)](https://www.amazon.com/Social-Computing-Microsoft-SharePoint-2007/dp/B003D3OH5U/ref=sr_1_10?ie=UTF8&qid=1489544832&sr=8-10&keywords=sharepoint+social)
 
-
-
-# Open Source Projects #
-
-I am the author of the [MEANS](https://github.com/SharePointOscar/MEANS) boilerplate project on Github, which is a nicely structured project for building - you guessed it, modern apps with real-time sockets and uses MongoDB + ExpressJS + AngularJS + SailsJS.  It is great for single page application development!
-
-What else would you like to know?  Please contact me (send me a DM via LinkedIn or Twitter) if you have any engagements that require a true expert in the field.
-
-Chat soon,
-{% highlight bash  %}
-bash-3.2$ whoami
-Oscar
-{% endhighlight%}
