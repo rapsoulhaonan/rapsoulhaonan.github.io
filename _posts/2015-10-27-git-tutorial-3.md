@@ -1,6 +1,7 @@
 ---
 title: "Git 初学者(三)"
 subtitle: "Git 远程操作"
+header-img: "img/post-bg-git.jpg"
 tags: [Git]
 ---
 本文大量参考了 阮一峰 的 [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html) 。
