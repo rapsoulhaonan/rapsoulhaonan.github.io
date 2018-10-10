@@ -2,7 +2,7 @@
 author: Not Me!
 title: Markdown helper from Mou
 subtitle: Cheat sheet for markdown
-header-img: "img/post-bg-dreamer.jpg"
+header-img: "img/post-bg-markdown.jpg"
 tags: 
     - .md
 show_excerpt: false
