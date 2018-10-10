@@ -149,8 +149,3 @@ XML
 [Data Binding Overview](https://docs.microsoft.com/en-us/dotnet/framework/wpf/data/data-binding-overview)
 
 [How-to Topics](https://docs.microsoft.com/en-us/dotnet/framework/wpf/data/data-binding-how-to-topics)
-
-
-
-
-{% video https://www.youtube.com/watch?v=9rG9Xt84Hx4 240 480 https://github.com/rapsoulhaonan/rapsoulhaonan.github.io/blob/master/img/404-bg.jpg %}
