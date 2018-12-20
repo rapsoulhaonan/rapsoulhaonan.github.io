@@ -1,8 +1,8 @@
 > Welcome to my space！
 
-Hey, I am Yang. I am being semi-actively divng in [ZhiHu], [Github](http://github.com/rapsoulhaonan), [Medium](https://medium.com/@rapsoulhaonan). I like work out and outdoor activities. I hope y'all be healthy !
+Hey, I am Yang. I am being semi-actively divng in [ZhiHu], [Github](http://github.com/rapsoulhaonan), [Medium](https://medium.com/@rapsoulhaonan). I like work out, basketball, skiing, traveling, and photography. I hope y'all be caring your work life balance !
 
-I am an entry to medium level full-stack software engineer.
+I am a full-stack software engineer.
 👉 See my [Portfolio](/portfolio)、[Github](http://github.com/rapsoulhaonan)、[Linkedin](https://www.linkedin.com/in/haonan-yang-1a908056/)。 
 
 > People who love to eat are always the best people. -Julia Child
